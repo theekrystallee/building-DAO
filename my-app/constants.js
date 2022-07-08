@@ -2,11 +2,11 @@ export const CRYPTODEVS_DAO_CONTRACT_ADDRESS = "0xE796DDdAEC20AbD456a2e8B354dE3c
 export const CRYPTODEVS_NFT_CONTRACT_ADDRESS = "0xB3572E2F9df35ce76D82e9b84292AE9ee13920d1";
 
 export const CRYPTODEVS_DAO_ABI = [
-{
-    "_format": "hh-sol-artifact-1",
-    "contractName": "CryptoDevsDAO",
-    "sourceName": "contracts/CryptoDevsDAO.sol",
-    "abi": [
+
+    // "_format": "hh-sol-artifact-1",
+    // "contractName": "CryptoDevsDAO",
+    // "sourceName": "contracts/CryptoDevsDAO.sol",
+    // "abi": [
       {
         "inputs": [
           {
@@ -192,7 +192,7 @@ export const CRYPTODEVS_DAO_ABI = [
         "stateMutability": "payable",
         "type": "receive"
       }
-]}];
+];
 
 export const CRYPTODEVS_NFT_ABI = [
     {
